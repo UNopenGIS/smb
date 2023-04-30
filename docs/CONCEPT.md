@@ -1,4 +1,4 @@
-# Smart Maps Walking Tour: Concept Note
+# Smart Maps Bazaar Walking Tour: Concept Note
 ## What are the challenges
 United Nations Vector Tile Toolkit (UNVT) has been successful in enabling base map provision in a cloud-optimized way. By enabling easy sharing, access, and processing of vector geospatial data, we can save time and costs needed to utilize geospatial information. Additionally, the cloud optimization allows for easier integration with different applications, making it commonly accessible to more people, who can then utilize geospatial information to make better decisions. This approach is also forward-looking and inclusive, ensuring that everyone can benefit from the power of open geospatial information.
 
