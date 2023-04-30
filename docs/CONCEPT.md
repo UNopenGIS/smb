@@ -1,14 +1,22 @@
-## What is the challenges
+# Smart Maps Walking Tour: Concept Note
+## What are the challenges
+United Nations Vector Tile Toolkit (UNVT) has been successful in providing basemap in a cloud-optimized way. By enabling easy sharing, access, and processing of vector geospatial data, we can save time and costs needed to utilize geospatial information. Additionally, the cloud optimization allows for easier integration with different applications, making it commonly accessible to more people, who can then utilize geospatial information to make better decisions. This approach is also forward-looking and inclusive, ensuring that everyone can benefit from the power of open geospatial information.
+
+<details>
+<summary>ja</summary>
 国連ベクトルタイルツールキットを通じ、我々はベクトル形式のベースマップ情報をクラウド最適化することに成功しました。
 ベクトル形式の地理空間情報を容易に共有、アクセス、処理できるようにすることで、
 地理空間情報を活用するために必要な時間やコストを節約することができます。
 また、クラウド最適化により、より簡単に使えて、多くのアプリケーションに結合できる用になるので、
 より多くの人々が地理空間情報を活用し、より良い意思決定をすることができます。
+</details>
 
 国連ベクトルタイルツールキットを配備するに当たっても、サーバーの取得と設定は頭痛の種でした。
 クラウド最適化された地理空間情報の場合、サーバー側の動的処理は複雑ではありませんが、
 安価で大容量で柔軟なストレージを機動的に用意することができれば、さらにタイムリーな地理空間情報を
 共有することができるようになります。
+
+
 
 加えて、UAVやLiDARによる写真や三次元点群データ、施設管理やスマートシティに関連する三次元都市モデルが
 次々にアクセス可能になりつつあります。これらのデータはベクトル形式のベースマップ情報よりもはるかに大きく、
