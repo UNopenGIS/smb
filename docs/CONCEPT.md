@@ -24,7 +24,7 @@ Acquiring and configuring servers in deploying UNVT was a bit of a headache. Wit
 Furthermore, access to geospatial information is expanding to include data from UAVs, LiDAR, 3D point clouds, and 3D city models related to facility management and smart cities. These datasets are significantly larger than vector-based base map information, and without innovative storage technologies, server issues could hinder the utilization of geospatial information.
 
 <details>
-<sumary>ja</summary>
+<summary>ja</summary>
 加えて、UAVやLiDARによる写真や三次元点群データ、施設管理やスマートシティに関連する三次元都市モデルが
 次々にアクセス可能になりつつあります。これらのデータはベクトル形式のベースマップ情報よりもはるかに大きく、
 より革新的なストレージ技術を用いなければサーバーの問題が地理空間情報の活用を阻害することになりかねません。
